@@ -1,0 +1,3 @@
+langchain-chroma==0.2.1
+langchain-core==0.3.34
+langchain-openai==0.3.4
